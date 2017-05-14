@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="batch-import-2.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/batch-import.git/branches/2.2/target/batch-import-2.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

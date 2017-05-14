@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/batch-import.git/branches/rel-batch/src/main/main.iml" filepath="$PROJECT_DIR$/batch-import.git/branches/rel-batch/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/batch-import.git/trunk/src/main/main1.iml" filepath="$PROJECT_DIR$/batch-import.git/trunk/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/batch-import.git/branches/2.2/src/main/main2.iml" filepath="$PROJECT_DIR$/batch-import.git/branches/2.2/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/batch-import.git/branches/direct-update/src/main/main3.iml" filepath="$PROJECT_DIR$/batch-import.git/branches/direct-update/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/batch-import.git/branches/2.1/src/main/main4.iml" filepath="$PROJECT_DIR$/batch-import.git/branches/2.1/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/batch-import.git/branches/1.9/src/main/main5.iml" filepath="$PROJECT_DIR$/batch-import.git/branches/1.9/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/batch-import.git/branches/2.3/src/main/main6.iml" filepath="$PROJECT_DIR$/batch-import.git/branches/2.3/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/batch-import.git/branches/2.1-experimental/src/main/main7.iml" filepath="$PROJECT_DIR$/batch-import.git/branches/2.1-experimental/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/batch-import.git/branches/2.1/src/test/test.iml" filepath="$PROJECT_DIR$/batch-import.git/branches/2.1/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/batch-import.git/branches/2.2/src/test/test1.iml" filepath="$PROJECT_DIR$/batch-import.git/branches/2.2/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/batch-import.git/branches/direct-update/src/test/test2.iml" filepath="$PROJECT_DIR$/batch-import.git/branches/direct-update/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/batch-import.git/branches/2.3/src/test/test3.iml" filepath="$PROJECT_DIR$/batch-import.git/branches/2.3/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/batch-import.git/branches/rel-batch/src/test/test4.iml" filepath="$PROJECT_DIR$/batch-import.git/branches/rel-batch/src/test/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/batch-import.git/trunk/src/test/test5.iml" filepath="$PROJECT_DIR$/batch-import.git/trunk/src/test/test5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/batch-import.git/branches/2.1-experimental/src/test/test6.iml" filepath="$PROJECT_DIR$/batch-import.git/branches/2.1-experimental/src/test/test6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/batch-import.git/branches/1.9/src/test/test7.iml" filepath="$PROJECT_DIR$/batch-import.git/branches/1.9/src/test/test7.iml" />
+    </modules>
+  </component>
+</project>
